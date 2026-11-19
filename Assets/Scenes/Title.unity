@@ -1260,7 +1260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8f9268da3b9c174780b671ec2c7e125, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
-  Main: Main
+  Outside: Outside
 --- !u!114 &1886740819
 MonoBehaviour:
   m_ObjectHideFlags: 0
